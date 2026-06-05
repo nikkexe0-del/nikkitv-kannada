@@ -1,0 +1,6 @@
+{
+  "name": "nikkitv",
+  "description": "An application to view live TV channels and streams pulled dynamically from network sources.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
